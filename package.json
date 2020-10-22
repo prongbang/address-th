@@ -1,0 +1,23 @@
+{
+    "name": "@prongbang/address-th",
+    "version": "1.0.0",
+    "description": "Address Thailand",
+    "author": "prongbang",
+    "devDependencies": {},
+    "repository": "https://github.com/prongbang/address-th.git",
+    "scripts": {
+        "test": "make test"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "bugs": {
+        "url": "https://github.com/prongbang/address-th/issues"
+    },
+    "main": "index.js",
+    "keywords": [
+        "address-th",
+        "AddressThailand"
+    ],
+    "license": "MIT"
+}
